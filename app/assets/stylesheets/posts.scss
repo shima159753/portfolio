@@ -69,6 +69,7 @@ margin-top: 1vh;
   padding-left: 5vw;
   flex-wrap: wrap;
   color: rgb(100, 42, 42);
+ 
 }
 
 .work-title{
@@ -96,6 +97,10 @@ margin-top: 1vh;
   overflow-wrap: break-word;
 }
 
+.app-list{
+  display: flex;
+
+}
 
 .app-list-one{
   display: flex;
